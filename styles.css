@@ -1,0 +1,37 @@
+.bordered-red {
+  border: 1px solid #DA727E; /* Customize the border style as needed */
+  padding: 5px; /* Add padding for spacing */
+  display: inline-block; /* Ensure the div doesn't take up full width */
+}
+
+.bordered-yellow {
+  border: 1px solid #FFBC67; /* Customize the border style as needed */
+  padding: 5px; /* Add padding for spacing */
+  display: inline-block; /* Ensure the div doesn't take up full width */
+}
+
+.bordered-blue {
+    border: 1px solid #455C7B; /* Customize the border style as needed */
+    padding: 5px; /* Add padding for spacing */
+    display: inline-block; /* Ensure the div doesn't take up full width */
+}
+
+.custom-red {
+    color: #DA727E; /* Replace with your desired color value */
+}
+
+.custom-yellow {
+    color: #FFBC67; /* Replace with your desired color value */
+}
+
+.custom-blue {
+    color: #455C7B; /* Replace with your desired color value */
+}
+
+.sub-heading h1 {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center !important;
+}

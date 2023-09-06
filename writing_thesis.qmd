@@ -1,0 +1,111 @@
+---
+title: "PR-ComOn"
+title-slide-attributes:
+  data-background-image: pics/writing.gif
+  data-background-size: cover
+  data-background-opacity: "0.5"
+subtitle: "Wie starte ich mit meiner Doktorarbeit (DA) und bringe sie tatsächlich auf die Zielgerade"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: pics/neurogeriatrics_logo.png
+    css: styles.css
+    margin: 0.1
+    smaller: true
+---
+
+## Typische Aussagen von ALLEN Doktis
+
+::: {.incremental}
+-   Ich hatte viel zu tun, aber probiere mich jetzt nach meinem Urlaub wieder intensiver an meine DA zu setzten
+-   Ich weiß nicht so richtig wo ich anfangen soll mit dem Schreiben, wir hatten das noch nie im Studium
+-   Statistik hatte ich bisher gar nicht
+-   Zwischen unserem letzten Treffen im Mai 2021 und jetzt war wegen Staatsexamen wenig Zeit, jetzt will ich aber bis Ende Oktober fertig werden weil dann meine neue Stelle anfängt
+:::
+
+
+## Was braucht ihr zum Schreiben
+
+::: {.incremental}
+-   Thema
+-   Daten/ Statistik
+-   Literatur
+-   Gliederung
+-   Zeitmanagment
+:::
+
+
+## Daten
+
+::: {.incremental}
+-   Ping-Pong mit Betreuer:innen bis der “finale” Datensatz steht
+
+-   Informationen für das Schreiben:
+    -   Demografische Daten
+    -   Daten über Testverfahren, Messungen, …
+    -   Daten über statistische Verfahren
+:::
+
+
+## Literatur
+
+::: {.incremental}
+-   Es gibt min. 1000 Artikel die grob mit eurem Thema zusammenhängen
+-   **Findet die 50 relevanten**
+
+-   Jeder gelesene Artikel oder Abstract bringt euch weiter
+-   Notiert euch die Inhalte der Paper die ihr lest
+
+-   Arbeitet mit Literaturmanager ([Zotero](https://www.zotero.org/)) und [Word Plugins](https://www.zotero.org/support/word_processor_integration)
+:::
+
+
+## Gliederung
+
+::: {.incremental}
+1.  Einleitung
+    i)    Orientierung an der Fragestellung
+    ii)   „Es wird angenommen, dass die motorische Funktion zu Beginn und die Veränderung der Mobilität nach Therapie in einer geriatrischen Kohorte nicht allein durch körperliche Aspekte gemäß dem ICF-Modell erklärt werden können, sondern auch von anderen Einflussfaktoren abhängig sind“
+
+2.  Methoden
+    i)   Meist als erstes und am einfachsten
+    ii)   Orientiert euch an anderen Papern
+    iii)   Beschreibt alle für euch relevanten Instrumente und Statistiken
+
+3.  Ergebnisse
+    i)   Die für euch relevanten Ergebnisse
+    ii)   Schreibt erst den Text und fügt dann Grafiken und Tabellen ein
+
+4.  Diskussion
+    i)   Nach einem Treffen mit Walter
+    ii)   Zusammenfassen und diskutieren
+    iii)   Nicht nur Limitationen
+:::
+
+
+## Zeitmanagment
+
+::: {.incremental}
+-   Regelmäßige Slots (Keine Netflix Serie ist so gut wie eine fertige Doktorarbeit)
+-   Fragt nach Feedback oder Deadlines bei uns
+-   Arbeitet einzelne Blöcke ab
+    1.  Themenfindung
+    2.  Fragestellung
+    3.  Statistik
+    4.  Schreiben
+        i)   Formatierung
+        ii)   Methoden
+        iii)   Einleitung
+        iiii)   Ergebnisse
+        iiiii)   Diskussion
+
+:::
+
+# Danke für die Aufmerksamkeit{.sub-heading}
+![](pics/thanks.gif){fig-align="center" height="20%"}
+
+Gibt es Fragen?
+
