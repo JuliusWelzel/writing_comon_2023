@@ -65,7 +65,7 @@ format:
 
 ## Gliederung
 
-::: {.incremental}
+::: {.incremental .r-fit-text}
 1.  Einleitung
     i)    Orientierung an der Fragestellung
     ii)   „Es wird angenommen, dass die motorische Funktion zu Beginn und die Veränderung der Mobilität nach Therapie in einer geriatrischen Kohorte nicht allein durch körperliche Aspekte gemäß dem ICF-Modell erklärt werden können, sondern auch von anderen Einflussfaktoren abhängig sind“
